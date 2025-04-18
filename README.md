@@ -12,13 +12,13 @@ These dashboards are created using a combination of:
 
 ## Projects Overview
 
-### [Airbnb Listing Dashboard](./airbnb-project)
+### Airbnb Listing Dashboard
 Explores Airbnb listings and pricing trends in a major city.  
 **Skills shown**: Market segmentation, price heatmaps, average review scores  
 
 ---
 
-### [Superstore Sales Dashboard](./superstore-project)
+### Superstore Sales Dashboard
 Analyzes fictional sales data to identify key sales trends and regional performance.  
 **Skills shown**: KPI tracking, top products, profit breakdown  
 
