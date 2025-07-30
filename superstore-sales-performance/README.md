@@ -7,8 +7,7 @@ This Tableau project analyzes sales performance from a fictional Superstore data
 - **Executive Overview** – High-level KPIs, monthly trends, sales by region and segment
 - **Performance Analyzer** – Profit outliers, quarterly heatmap, sub-category performance
 
-![Dashboard Preview](<img width="1911" height="1020" alt="executive sales dashboard" src="https://github.com/user-attachments/assets/e4c6d8b2-3f5f-417e-96d0-31c274064dd1" />
-)
+[![Dashboard Preview](dashboard-preview.png)](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
 
 > Preview: Executive Overview & Analytical Dashboard (click the link below for interactive version)
 
