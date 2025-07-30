@@ -24,7 +24,7 @@ Explore geospatial building footprint data to analyze structure types, elevation
 - KPIs and heatmaps for extrusion analysis
 - Box plots and distribution charts  
 
-🔗 [View Live Dashboard](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/BuildingFootprintsAnalysis/BuildingFootprintAnalysis)
+[View Live Dashboard](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/BuildingFootprintsAnalysis/BuildingFootprintAnalysis)
 
 ---
 
