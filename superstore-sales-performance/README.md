@@ -1,13 +1,25 @@
 # Superstore Sales & Performance Dashboard
 
-This Tableau project contains two dashboards:
+This Tableau project analyzes sales performance from a fictional Superstore dataset (2021–2024), designed for both executive overview and in-depth performance diagnostics.
 
-- **Executive Sales Overview** – KPIs, sales by region, trends by month/year
-- **Performance Analyzer** – Profit outliers, segment/sub-category breakdown
+## Dashboards Included
 
-## View on Tableau Public:
-[Click here to view live dashboard](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
+- **Executive Overview** – High-level KPIs, monthly trends, sales by region and segment
+- **Performance Analyzer** – Profit outliers, quarterly heatmap, sub-category performance
 
-## Included Files:
-- `Superstore Visualization & Dashboard.twbx` – Packaged Tableau workbook with all data and dashboards
-- `Superstore Sales Performance Dataset.xlsx` – Source dataset used for visualization
+![Dashboard Preview](<img width="1911" height="1020" alt="executive sales dashboard" src="https://github.com/user-attachments/assets/48409c78-f402-40b3-a0c0-cadb469fedda" />)
+
+> Preview: Executive Overview & Analytical Dashboard (click the link below for interactive version)
+
+## View Live on Tableau Public
+
+[**Superstore Sales & Performance Dashboard**](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
+
+## Files Included
+
+- `Superstore Visualization & Dashboard.twbx` - Tableau packaged workbook (all dashboards and data)
+- `Superstore Sales Performance Dataset.xlsx` - Original dataset used
+
+## Tools Used
+
+- Tableau Public Desktop
