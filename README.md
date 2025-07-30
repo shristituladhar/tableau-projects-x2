@@ -40,7 +40,7 @@ Analyze fictional Superstore sales data (2021-2024) with both executive-level KP
   - KPI cards, outlier detection  
   - Region/state-level visualizations
 
-[View on Tableau Public](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
+[View Live Dashboard](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
 
 ---
 
