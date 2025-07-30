@@ -15,7 +15,20 @@ These projects highlight data storytelling, performance analysis, and visualizat
 
 ## Projects Overview
 
-### [1. Superstore Sales & Performance Dashboard](superstore-sales-performance)
+### 1. Building Footprint Analysis
+
+Explore geospatial building footprint data to analyze structure types, elevation ranges, and roof designs. Built using Python, AWS Redshift, and Tableau.
+
+**Dashboards**:
+- Interactive filters for footprint type, roof type, and elevation
+- KPIs and heatmaps for extrusion analysis
+- Box plots and distribution charts  
+
+🔗 [View Live Dashboard](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/BuildingFootprintsAnalysis/BuildingFootprintAnalysis)
+
+---
+
+### [2. Superstore Sales & Performance Dashboard](superstore-sales-performance)
 
 Analyze fictional Superstore sales data (2021-2024) with both executive-level KPIs and deep analytical breakdowns.
 
@@ -31,7 +44,7 @@ Analyze fictional Superstore sales data (2021-2024) with both executive-level KP
 
 ---
 
-### [2. Airbnb Listing & Price Explorer](Airbnb%20Project)
+### [3. Airbnb Listing & Price Explorer](Airbnb%20Project)
 
 > *In Progress: Rebuilding workbook and dashboards*
 
