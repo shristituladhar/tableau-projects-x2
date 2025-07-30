@@ -15,7 +15,7 @@ These projects highlight data storytelling, performance analysis, and visualizat
 
 ## Projects Overview
 
-### 1. Building Footprint Analysis
+### [1. Building Footprint Analysis](building-footprints-analysis)
 
 Explore geospatial building footprint data to analyze structure types, elevation ranges, and roof designs. Built using Python, AWS Redshift, and Tableau.
 
@@ -44,7 +44,7 @@ Analyze fictional Superstore sales data (2021-2024) with both executive-level KP
 
 ---
 
-### [3. Airbnb Listing & Price Explorer](Airbnb%20Project)
+### [3. Airbnb Listing & Price Explorer](airbnb-listings)
 
 > *In Progress: Rebuilding workbook and dashboards*
 
