@@ -1,64 +1,57 @@
 # Tableau Projects Portfolio
 
-Welcome to my Tableau portfolio - a collection of interactive dashboards built using real-world datasets. Each project showcases data storytelling, analytical thinking, and hands-on skills in data visualization and exploration.
+Welcome to my Tableau portfolio: a collection of interactive dashboards built from real-world datasets.
+These projects highlight data storytelling, performance analysis, and visualization best practices.
 
 ---
 
 ## Tools Used
 
-- **Tableau** - For creating dashboards and interactive visualizations  
-- **Excel / SQL Server** - For data cleaning and preparation  
-- **Public datasets** - Real-world business and consumer datasets
+- **Tableau Public** - For interactive dashboards and analytics
+- **Excel / SQL Server** - For data preparation and cleaning
+- **Public Datasets** - Business and consumer data
 
 ---
 
 ## Projects Overview
 
-### 1. Airbnb Listing Dashboard
+### [1. Superstore Sales & Performance Dashboard](superstore-sales-performance)
 
-**Goal**: Explore Airbnb listings and pricing trends in a major city.  
-**Key Insights**:
-- Average price distribution  
-- Review scores analysis  
-- Market segmentation  
-- Neighborhood price comparisons
+Analyze fictional Superstore sales data (2021-2024) with both executive-level KPIs and deep analytical breakdowns.
 
-**Files**:
-- `AirBnb Project Visualization.twb` - Tableau workbook  
-- `AirBnb Project.xlsx` - Raw dataset used for visualization
+- **Dashboards**:  
+  - Executive Overview  
+  - Performance Analyzer
+- **Highlights**:  
+  - Monthly sales trends, profit by segment  
+  - KPI cards, outlier detection  
+  - Region/state-level visualizations
+
+[View on Tableau Public](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
 
 ---
 
-### 2. Superstore Sales Dashboard
+### [2. Airbnb Listing & Price Explorer](Airbnb%20Project)
 
-**Goal**: Analyze fictional Superstore data to uncover key sales and profit trends.  
-**Key Insights**:
-- Monthly sales performance  
-- Profit breakdown by region and category  
-- Top-performing products  
-- KPI monitoring and trend lines
+> *In Progress: Rebuilding workbook and dashboards*
 
-**Files**:
-- `Superstore Dataset.xlsx` - Cleaned sales dataset  
-- `Superstore - Tableau Visualization Summary.docx` - Project overview  
-- Exported charts (PNG) - Visualizations like bar charts, maps, scatter plots, dashboards
+Explore Airbnb listing data to uncover price trends, host performance, and neighborhood differences.
+
+- Planned Insights:
+  - Price distribution by room type & location  
+  - Review score breakdowns  
+  - Availability patterns
+
+---
+
+## How to Explore Locally
+
+1. Clone or download this repository  
+2. Open any `.twbx` file in Tableau Public Desktop
+3. Use filters and interactive charts to explore insights  
 
 ---
 
 ## Why Tableau?
 
-Tableau is a powerful platform that turns raw data into visual stories. These dashboards demonstrate how interactive visuals can highlight insights, trends, and business opportunities in an intuitive way.
-
----
-
-## Preview
-
-You can preview exported visuals under the `Superstore - Visualizations` folder.
-
----
-
-## How to Explore
-
-1. Download the `.twb` or `.twbx` files  
-2. Open in Tableau Desktop or Tableau Public  
-3. Interact with filters, slicers, and dashboards
+Tableau allows me to turn raw data into clear, interactive visual stories. These projects show how data visualization can power insight-driven decisions and analysis.
