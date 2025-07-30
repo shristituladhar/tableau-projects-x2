@@ -9,17 +9,17 @@ This Tableau project analyzes sales performance from a fictional Superstore data
 
 [![Dashboard Preview](dashboard-preview.png)](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
 
-> Preview: Executive Overview & Analytical Dashboard (click the link below for interactive version)
+> Preview of both dashboards — click the image above for the interactive version.
 
-## View Live on Tableau Public
+## View on Tableau Public
 
 [**Superstore Sales & Performance Dashboard**](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/SuperstoreSalesPerformanceDashboard_17536767511400/ExecutiveDashboard)
 
 ## Files Included
 
-- `Superstore Visualization & Dashboard.twbx` - Tableau packaged workbook (all dashboards and data)
-- `Superstore Sales Performance Dataset.xlsx` - Original dataset used
+- `Superstore Visualization & Dashboard.twbx` – Tableau packaged workbook (includes all dashboards and data)
+- `Superstore Sales Performance Dataset.xlsx` – Original Excel dataset
+- `dashboard-preview.png` – Static image preview of dashboards
 
 ## Tools Used
-
 - Tableau Public Desktop
