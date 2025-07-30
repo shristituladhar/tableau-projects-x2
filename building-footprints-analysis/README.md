@@ -25,7 +25,9 @@ This project visualizes the geospatial building footprint data to uncover patter
 
 ## Dashboard Preview
 
-![Dashboard](buildingfootprints%20dashboard.png)
+[![Dashboard](buildingfootprints%20dashboard.png)]([https://YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/BuildingFootprintsAnalysis/BuildingFootprintAnalysis))
+
+> Click the image above to view the live dashboard.
 
 File: `Building Footprints Dashboards.twbx`  
 Data: `buildingfootprints.csv` (cleaned) from `building footprints dataset.csv`
