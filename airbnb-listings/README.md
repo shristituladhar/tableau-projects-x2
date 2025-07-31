@@ -1,34 +1,42 @@
 # Airbnb Listing & Price Explorer
-This Tableau project analyzes Airbnb listings in Seattle to uncover pricing patterns, availability trends, and listing distribution.
 
-## Project Objectives
-- Visualize average listing price by zipcode
-- Explore price breakdown by bedroom count
-- Show room type composition using pie charts
-- Track revenue trend over time
-- Highlight most common bedroom configurations
+This Tableau project explores Seattle Airbnb data to identify pricing trends, room type breakdowns, and listing availability patterns. The dashboard uses public Airbnb data from 2016 and focuses on visualizing key performance indicators across neighborhoods.
 
-## Data Source
-- **Listings** sheet from Airbnb Seattle dataset (2016)
-- Joined with Calendar data for availability and pricing
-- *Reviews* sheet was excluded due to size and lack of relevance to current visualizations
+## Dashboard Preview
 
-## Dashboard Features
-- **Bar Chart**: Average price by zipcode
-- **Heatmap & Bar**: Count and average price by bedroom
-- **Line Chart**: Revenue trend over time
-- **Pie Chart**: Room type distribution
-- **Map**: Geospatial average price by zipcode
-- **Filters**: Zipcode and Room Type slicers
-- **KPI Card**: Overall average listing price
+[![Airbnb Dashboard Preview](airbnb-dashboard.png)](https://public.tableau.com/app/profile/shristi.tuladhar6499/viz/AirbnbListingsAnalysis_17539458480750/Dashboard)
 
-## Tools Used
-- Tableau Public
-
-## Output
-`Airbnb Listings Dashboard.twbx`  
+> Click the image to explore the **live dashboard** on Tableau Public.
 
 ---
 
-> Note: The Reviews table is present in the source file but excluded from this dashboard due to size constraints and its minimal impact on visualizations.
+## Key Insights
 
+- **Average Price by Zipcode** - Bar and map view of pricing across neighborhoods
+- **Room Type Breakdown** - Pie chart showing distribution of listing types
+- **Average Price per Bedroom** - Cost comparisons by bedroom count
+- **Revenue Trend** - Weekly total revenue trend over time
+- **KPI** - Average listing price (for all listings)
+
+---
+
+## Files Included
+
+- `Airbnb Listings Dashboard.twbx` - Tableau packaged workbook  
+- `airbnb-dashboard.png` - Static dashboard preview image  
+- `cAirbnb Dataset` - Full Airbnb Seattle dataset *(reviews excluded in dashboard)*
+
+---
+
+## Data Details
+
+- Data Source: Seattle Airbnb Open Data (2016)
+- Joined `listings.csv` and `calendar.csv` in Tableau via `id`
+- *`reviews.csv` was excluded from visualizations due to file size and lack of usage in insights*
+
+---
+
+## Tools Used
+
+- **Tableau Public** - For building and publishing dashboards
+- **Excel** - For filtering and previewing dataset structure
