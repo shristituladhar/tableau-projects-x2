@@ -84,4 +84,4 @@ Tableau enables powerful, fast, and intuitive storytelling through data. These p
 - Translate raw data into clear visuals  
 - Design interactive dashboards for real-world audiences  
 - Clean and prep data for visual consumption
-- 
+  
